@@ -1,0 +1,184 @@
+body{
+    text-align: center;
+    
+}
+#f1 img{
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px;
+}
+#f2 img{
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px; 
+}
+#f3 img{
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px; 
+}
+#f4 img{
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px;  
+}
+#f5 img{
+    margin-left: 10px;
+    margin-right:10px;
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px;   
+}
+#f6 img{
+    margin-left:10px;
+    margin-right: 10px; 
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px;  
+}
+#f7 img{
+    margin-left: 10px;
+    margin-right: 10px; 
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px;  
+}
+
+#f8 img{
+    margin-left: 10px;
+    margin-right: 10px; 
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px;  
+}
+#f9 img{
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px;
+}
+#f10 img{
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: double; 
+    border-color: aquamarine;
+    border-width: 20px;
+}
+#f1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+
+
+#f2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+#f3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+#f4{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+#f5{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+#f6{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+#f7{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+#f8{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+#f9{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+#f10{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: cadetblue;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+    color:rgb(157, 226, 21);
+}
+#main{
+    background-color: cadetblue;
+}
+.p1{
+    color: white;
+    font-size: 15px;
+    font-family:cursive;
+}
+.container{
+    text-align: center;
+    padding-top: 50px;
+    border-style: dotted;
+    border-color: yellowgreen;
+    border-width: 10px;
+    
+}
+.carousel-inner img{
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 20px;
+}
+.carousel-inner{
+    text-align: center;
+   
+}
+
+.my_nav_bar{
+    position: fixed;
+    width: 100%;
+  
+}
